@@ -16,8 +16,6 @@ Jednoduchá webová aplikace, která zobrazuje aktuální kurz Bitcoinu v česk�
 Aplikaci si můžeš vyzkoušet zde:  
 ➡️ [https://hanacektomas.github.io/crypto_api](https://hanacektomas.github.io/crypto_api)
 
-_(nahraď podle potřeby)_
-
 ## 📸 Náhled
 
 ![Ukázka aplikace](screenshot.png)
@@ -29,6 +27,3 @@ _(nahraď podle potřeby)_
 - CoinGecko API – pro aktuální kurz a historická data
 - Google Fonts – písmo Roboto
 - GitHub Pages – pro hostování
-
-## 🗂️ Struktura souborů
-
