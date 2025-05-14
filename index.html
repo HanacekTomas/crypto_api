@@ -3,33 +3,15 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Kurz kryptoměn</title>
+  <title>Bitcoin kurz</title>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <div class="container">
-    <h2>💰 Aktuální kurz kryptoměn</h2>
-
-    <label for="crypto">Vyber měnu:</label>
-    <select id="crypto">
-      <option value="bitcoin">Bitcoin (BTC)</option>
-      <option value="ethereum">Ethereum (ETH)</option>
-      <option value="litecoin">Litecoin (LTC)</option>
-    </select>
-
-    <label for="currency">Vůči měně:</label>
-    <select id="currency">
-      <option value="czk">CZK</option>
-      <option value="usd">USD</option>
-      <option value="eur">EUR</option>
-    </select>
-
-    <button onclick="loadPrice()">Načíst kurz</button>
-
-    <div id="result">Zde se zobrazí cena</div>
+    <h2>💰 Aktuální kurz Bitcoinu</h2>
+    <div id="result">Načítám...</div>
   </div>
-
   <script src="script.js"></script>
 </body>
 </html>
