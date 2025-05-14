@@ -14,7 +14,7 @@ Jednoduchá webová aplikace, která zobrazuje aktuální kurz Bitcoinu v česk�
 ## 🌐 Online verze
 
 Aplikaci si můžeš vyzkoušet zde:  
-➡️ [https://tvojeuživatelskejmeno.github.io/nazev-repozitare](https://tvojeuživatelskejmeno.github.io/nazev-repozitare)
+➡️ [https://tvojeuživatelskejmeno.github.io/nazev-repozitare]([https://tvojeuživatelskejmeno.github.io/nazev-repozitare](https://hanacektomas.github.io/crypto_api)
 
 _(nahraď podle potřeby)_
 
